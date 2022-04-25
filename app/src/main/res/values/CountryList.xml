@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="USA" type="string" />
+    <item name="Canada" type="string" />
+
+    <item name="Australia" type="string" />
+    <item name="Europe" type="string"/>
+
+
+
+
+</resources>
